@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [我的个人博客](https://changfenge.github.io/)
 
 ![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=vuejs,element-ui,vantui,boostrap,nodejs,javascript,python,c,mysql&theme=light&perline=3)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vuejs,element-uijs,vantui,boostrap,nodejs,javascript,python,c,mysql&theme=light&perline=3)](https://skillicons.dev)   
