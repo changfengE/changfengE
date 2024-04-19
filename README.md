@@ -22,7 +22,8 @@ https://github.com/markdown-templates/markdown-emojis --> 
 ![](https://komarev.com/ghpvc/?username=changfenge&color=2ed573&label=u+r+the) 
 
 :smirk: [我的个人博客](https://changfenge.github.io/) 
-这个主页美化好麻烦:anger:位置怎么改不了:herb: :anger:
+
+这个主页美化好麻烦 :anger: 位置怎么改不了 :herb: :anger: 
 
 <!-- ![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white) --> 
 
