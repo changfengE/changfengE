@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 表情emojis:
 https://github.com/markdown-templates/markdown-emojis --> 
 
-![](https://komarev.com/ghpvc/?username=changfenge&color=2ed573&label=u+r+the)
+![](https://komarev.com/ghpvc/?username=changfenge&color=2ed573&label=u+r+the) 
 
 :smirk: [我的个人博客](https://changfenge.github.io/) 
 这个主页美化好麻烦:anger:位置怎么改不了:herb::anger:
@@ -28,10 +28,10 @@ https://github.com/markdown-templates/markdown-emojis --> 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,less,jquery,vuejs,bootstrap,npm,postman,nodejs,express,py,c,mysql,md,vscode&theme=dark&perline=20)]() 
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between"> 
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between">  
     <div style="width:calc((100% - 50px)/2);"> 
         <a href="https://changfenge.github.io/" title="个人博客">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=changfenge&repo=changfenge.github.io&theme=vue-dark&show_owner=false&hide_border=true"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=changfenge&repo=changfenge.github.io&theme=vue-dark&show_owner=false&hide_border=true"/> 
         </a>
     </div>
     <div style="width:calc((100% - 50px)/2);"> 
